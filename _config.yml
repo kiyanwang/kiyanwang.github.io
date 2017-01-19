@@ -1,5 +1,6 @@
 name: Nadeems site
 markdown: redcarpet
+theme: hacker
 safe: true
 lsi: false
 pygments: true
