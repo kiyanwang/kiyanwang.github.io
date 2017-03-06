@@ -1,5 +1,4 @@
 name: Nadeems site
-markdown: redcarpet
 theme: jekyll-theme-hacker
 safe: true
 lsi: false
