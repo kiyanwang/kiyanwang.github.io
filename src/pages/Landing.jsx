@@ -18,7 +18,7 @@ export default function Landing() {
         <div className="landing__hero-text">
           <span className="landing__subtitle">Staff Engineer · BibliU</span>
           <h1 className="landing__headline">
-            I build platforms, grow teams, and advise startups on technical strategy.
+            I build platforms, grow teams, offer technical advice, and mentor.
           </h1>
           <p className="landing__description">
             Staff Engineer at BibliU, formerly Head of Platform at Talis. I think about
