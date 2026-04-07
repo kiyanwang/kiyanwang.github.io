@@ -1,0 +1,119 @@
+.landing__hero {
+  display: flex;
+  align-items: center;
+  gap: 48px;
+  padding: 64px 48px;
+}
+
+.landing__hero-text {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.landing__subtitle {
+  color: var(--primary);
+  font-family: var(--font-primary);
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+}
+
+.landing__headline {
+  color: var(--foreground);
+  font-family: var(--font-primary);
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+.landing__description {
+  color: var(--muted-foreground);
+  font-family: var(--font-secondary);
+  font-size: 16px;
+  line-height: 1.6;
+  max-width: 480px;
+}
+
+.landing__socials {
+  display: flex;
+  gap: 12px;
+  padding-top: 8px;
+}
+
+.landing__social-btn {
+  background: var(--primary);
+  color: var(--primary-foreground);
+  font-family: var(--font-primary);
+  font-size: 14px;
+  font-weight: 500;
+  padding: 10px 16px;
+  border-radius: var(--radius-pill);
+  text-decoration: none;
+  border: none;
+  cursor: pointer;
+}
+
+.landing__social-btn:hover {
+  opacity: 0.9;
+  text-decoration: none;
+}
+
+.landing__photo {
+  width: 160px;
+  height: 160px;
+  border-radius: 50%;
+  border: 3px solid var(--primary);
+  object-fit: cover;
+  flex-shrink: 0;
+}
+
+.landing__section {
+  padding: 32px 48px;
+  border-top: 1px solid var(--border);
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.landing__cards {
+  display: flex;
+  gap: 16px;
+}
+
+.landing__articles {
+  border: 1px solid var(--border);
+  border-radius: var(--radius-m);
+  overflow: hidden;
+}
+
+@media (max-width: 768px) {
+  .landing__hero {
+    flex-direction: column-reverse;
+    padding: 40px 24px;
+    gap: 32px;
+    text-align: center;
+  }
+
+  .landing__headline {
+    font-size: 28px;
+  }
+
+  .landing__socials {
+    justify-content: center;
+  }
+
+  .landing__description {
+    max-width: 100%;
+  }
+
+  .landing__section {
+    padding: 24px;
+  }
+
+  .landing__cards {
+    flex-direction: column;
+  }
+}
