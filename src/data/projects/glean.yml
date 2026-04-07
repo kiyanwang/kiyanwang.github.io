@@ -1,0 +1,8 @@
+name: Glean
+description: Article curation & summarisation tool for Obsidian. Collects articles and uses AI to generate summaries.
+tags:
+  - JavaScript
+  - Obsidian
+  - AI
+github_url: https://github.com/kiyanwang/glean
+featured: true

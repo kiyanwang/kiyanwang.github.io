@@ -1,0 +1,7 @@
+name: AI Agents
+description: Custom AI agents for Claude Code. Exploring agentic workflows and developer productivity tooling.
+tags:
+  - AI
+  - Claude Code
+github_url: https://github.com/kiyanwang/ai-agents
+featured: true

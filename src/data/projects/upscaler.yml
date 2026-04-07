@@ -1,0 +1,7 @@
+name: Upscaler
+description: Image upscaling tool using AI models. Enhance resolution and quality of images programmatically.
+tags:
+  - Python
+  - AI
+github_url: https://github.com/kiyanwang/upscaler
+featured: false

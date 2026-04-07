@@ -3,3 +3,4 @@ Gemfile.lock
 .superpowers/
 node_modules/
 dist/
+src/data/articles.json

@@ -1,0 +1,8 @@
+name: Pen Studio Demo
+description: "PenCraft Studio \u2014 3D pen turning simulator with procedural wood grain shaders."
+tags:
+  - TypeScript
+  - 3D
+  - Design
+github_url: https://github.com/kiyanwang/pen-studio-demo
+featured: false

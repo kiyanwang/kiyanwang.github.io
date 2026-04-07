@@ -1,0 +1,7 @@
+name: Dotfiles
+description: Shell and tool configurations. Neovim, tmux, zsh, and development environment setup.
+tags:
+  - Shell
+  - Config
+github_url: https://github.com/kiyanwang/dotfiles
+featured: false
