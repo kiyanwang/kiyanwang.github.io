@@ -1,0 +1,8 @@
+name: SketchyBar Configurator
+description: Visual editor for SketchyBar, the macOS status bar replacement. Three-pane editor with live preview, twelve theme presets, and ZIP export of a valid sketchybarrc and plugin scripts.
+tags:
+  - React
+  - macOS
+  - Tools
+github_url: https://github.com/kiyanwang/sketchybar-configurator
+featured: true
