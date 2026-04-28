@@ -14,9 +14,16 @@ export default function ProjectCard({ project }) {
           <Tag key={tag} label={tag} variant="orange" />
         ))}
       </div>
-      <a href={project.github_url} target="_blank" rel="noopener noreferrer" className="project-card__link">
-        View on GitHub →
-      </a>
+      <div className="project-card__links">
+        {project.live_url && (
+          <a href={project.live_url} target="_blank" rel="noopener noreferrer" className="project-card__link">
+            Live demo →
+          </a>
+        )}
+        <a href={project.github_url} target="_blank" rel="noopener noreferrer" className="project-card__link">
+          View on GitHub →
+        </a>
+      </div>
     </div>
   );
 }

@@ -35,6 +35,12 @@
   flex-wrap: wrap;
 }
 
+.project-card__links {
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
 .project-card__link {
   color: var(--primary);
   font-family: var(--font-secondary);
