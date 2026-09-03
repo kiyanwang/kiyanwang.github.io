@@ -16,14 +16,16 @@ export default function Landing() {
       <NavBar />
       <section className="landing__hero" id="about">
         <div className="landing__hero-text">
-          <span className="landing__subtitle">Staff Engineer · BibliU</span>
+          <span className="landing__subtitle">Founding Engineer · MyPholyo</span>
           <h1 className="landing__headline">
             I build platforms, grow teams, offer technical advice, and mentor.
           </h1>
           <p className="landing__description">
-            Staff Engineer at BibliU, formerly Head of Platform at Talis. I think about
-            distributed systems, platform engineering, and the human side of shipping
-            software. Technical advisor to early-stage startups, and a mentor to many.
+            Founding Engineer at MyPholyo, previously Staff Engineer at BibliU and Head of
+            Platform at Talis. I think about distributed systems, platform engineering, and
+            the human side of shipping software. Technical advisor to early-stage startups,
+            and a mentor to many. Former Board Member at P2PU and contributor to School of
+            Code.
           </p>
           <div className="landing__socials">
             <a href="https://github.com/kiyanwang" target="_blank" rel="noopener noreferrer" className="landing__social-btn">GitHub</a>

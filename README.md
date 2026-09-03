@@ -1,6 +1,6 @@
 # kiyanwang.github.io
 
-Personal portfolio site for [Nadeem Shabir](https://linkedin.com/in/nadeemshabir) — Staff Engineer at BibliU, technical advisor, and mentor.
+Personal portfolio site for [Nadeem Shabir](https://linkedin.com/in/nadeemshabir) — Founding Engineer at MyPholyo, technical advisor, and mentor.
 
 **Live:** [kiyanwang.github.io](https://kiyanwang.github.io)
 
